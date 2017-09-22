@@ -1,0 +1,6 @@
+Credentials cache: API:26667
+        Principal: iprokofy@42.US.ORG
+
+  Issued                Expires               Principal
+Aug  8 21:00:05 2017  Aug  9 07:00:05 2017  krbtgt/42.US.ORG@42.US.ORG
+Aug  8 21:00:07 2017  Aug  9 07:00:05 2017  ldap/ldap-proxy.42.us.org@42.US.ORG

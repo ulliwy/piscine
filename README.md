@@ -1,2 +1,2 @@
 # piscine
-Tasks from my piscine in 42school (aug2017)
+Tasks during my piscine in 42school (aug2017)
